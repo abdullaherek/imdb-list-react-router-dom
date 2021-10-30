@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/imdb-list-react-router-dom/static/css/main.335bbd2b.chunk.css",
+    "main.js": "/imdb-list-react-router-dom/static/js/main.71532e33.chunk.js",
+    "main.js.map": "/imdb-list-react-router-dom/static/js/main.71532e33.chunk.js.map",
+    "runtime-main.js": "/imdb-list-react-router-dom/static/js/runtime-main.ae2fb73e.js",
+    "runtime-main.js.map": "/imdb-list-react-router-dom/static/js/runtime-main.ae2fb73e.js.map",
+    "static/js/2.3364e0a4.chunk.js": "/imdb-list-react-router-dom/static/js/2.3364e0a4.chunk.js",
+    "static/js/2.3364e0a4.chunk.js.map": "/imdb-list-react-router-dom/static/js/2.3364e0a4.chunk.js.map",
+    "static/js/3.d0483110.chunk.js": "/imdb-list-react-router-dom/static/js/3.d0483110.chunk.js",
+    "static/js/3.d0483110.chunk.js.map": "/imdb-list-react-router-dom/static/js/3.d0483110.chunk.js.map",
+    "index.html": "/imdb-list-react-router-dom/index.html",
+    "static/css/main.335bbd2b.chunk.css.map": "/imdb-list-react-router-dom/static/css/main.335bbd2b.chunk.css.map",
+    "static/js/2.3364e0a4.chunk.js.LICENSE.txt": "/imdb-list-react-router-dom/static/js/2.3364e0a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae2fb73e.js",
+    "static/js/2.3364e0a4.chunk.js",
+    "static/css/main.335bbd2b.chunk.css",
+    "static/js/main.71532e33.chunk.js"
+  ]
+}
