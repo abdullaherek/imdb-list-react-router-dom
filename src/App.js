@@ -18,7 +18,7 @@ function App() {
     <Router>
       <div className="App"> 
         <Route
-          path="/imdb-list-react-router-dom/"
+          path="/"
           exact
           render={() =>
             movies.map((movie, i) => (
