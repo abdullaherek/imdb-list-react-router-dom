@@ -40,7 +40,7 @@ console.log(movies);
         />
 
         <Route
-          path="/movie/:code"
+          path="/imdb-list-react-router-dom/movie/:code"
           render={(renderProps) => {
             const movie = movies.map((firstStep) =>
               firstStep.items.find(
