@@ -3,13 +3,12 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import { Movies } from "./components/Movies";
-const API_KEY = process.env.REACT_APP_API_KEY  
 
 function App() {
   const [movies, setMovies] = useState([]);
   useEffect(() => {
     axios
-      .get(API_KEY)
+      .get("https://imdb-api.com/en/API/Top250Movies/pk_5g8ie7oxtyveni2lp")
       .then((res) => setMovies([res.data]))
       .catch((error) => console.log(error));
   }, []);
