@@ -13,12 +13,12 @@ function App() {
       .then((res) => setMovies([res.data]))
       .catch((error) => console.log(error));
   }, []);
-
+console.log(movies);
   return (
     <Router>
       <div className="App"> 
         <Route
-          path="/"
+          path="/imdb-list-react-router-dom/"
           exact
           render={() =>
             movies.map((movie, i) => (
