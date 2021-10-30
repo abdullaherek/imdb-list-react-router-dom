@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/imdb-list-react-router-dom/static/css/main.335bbd2b.chunk.css",
-    "main.js": "/imdb-list-react-router-dom/static/js/main.9bfc4caa.chunk.js",
-    "main.js.map": "/imdb-list-react-router-dom/static/js/main.9bfc4caa.chunk.js.map",
+    "main.js": "/imdb-list-react-router-dom/static/js/main.3c532f5e.chunk.js",
+    "main.js.map": "/imdb-list-react-router-dom/static/js/main.3c532f5e.chunk.js.map",
     "runtime-main.js": "/imdb-list-react-router-dom/static/js/runtime-main.ae2fb73e.js",
     "runtime-main.js.map": "/imdb-list-react-router-dom/static/js/runtime-main.ae2fb73e.js.map",
     "static/js/2.3364e0a4.chunk.js": "/imdb-list-react-router-dom/static/js/2.3364e0a4.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ae2fb73e.js",
     "static/js/2.3364e0a4.chunk.js",
     "static/css/main.335bbd2b.chunk.css",
-    "static/js/main.9bfc4caa.chunk.js"
+    "static/js/main.3c532f5e.chunk.js"
   ]
 }
